@@ -1,0 +1,13 @@
+{
+  "quiet_minutes": {
+    "description": "多久没聊天算回到默认状态（分钟）",
+    "type": "int",
+    "default": 25,
+    "hint": "你发消息后她会立刻变成“拿手机”，这么久没说话才回到按时段的默认状态"
+  },
+  "refresh_seconds": {
+    "description": "页面数据刷新间隔（秒）",
+    "type": "int",
+    "default": 10
+  }
+}

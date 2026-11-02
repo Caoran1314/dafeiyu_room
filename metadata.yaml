@@ -1,0 +1,13 @@
+name: dafeiyu_room
+display_name: 大肥鱼房间
+short_desc: 3D 房间：睡觉、刷手机、电脑前、窗边发呆，状态随手变
+desc: 把她此刻在干什么变成 3D 房间：睡觉、床上刷手机、电脑前、窗边发呆
+help: 装在面板 → 插件 → 大肥鱼房间 → 打开页面。状态按时段和聊天自动切换，命令 /房间 查看当前状态。
+version: 1.1.0
+author: Caoran1314
+category: 工具
+astrbot_version: ">=4.24.0"
+support_platforms:
+  - aiocqhttp
+  - webchat
+repo: https://github.com/Caoran1314/dafeiyu_room
